@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomeInventorySystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcfc65698e7754f5370219fbf148e3657c894e4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee7e9a21f870421d6c9525f5ae0733ea3650f961")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomeInventorySystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomeInventorySystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
